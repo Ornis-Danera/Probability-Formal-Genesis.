@@ -1,14 +1,15 @@
-Here is the verbatim transcription of the provided images, maintaining the layout, corrections, and structure of the handwritten text.
 
 
+## Metadata
+- Source: Rozanov — Probability Theory: A Concise Course
+- Chapter: 1
+- Problem Type: Standard Application
+- Exercise ID: Unknown / Not specified
 
+---
 
-
-18/06/2026
-
-Probability Theory. Mastery Examination: Basic Concepts
-
-① [Standard Application]: A batch of 100 manufactured items is checked by an inspector, who randomly selects 10 items for examination. If none of the 10 items are defective, the batch is accepted. Calculate the exact probability that a batch containing exactly 10 defective items will be accepted, and express your intermediate steps using combinatorial notation:
+## Problem
+A batch of 100 manufactured items is checked by an inspector, who randomly selects 10 items for examination. If none of the 10 items are defective, the batch is accepted. Calculate the exact probability that a batch containing exactly 10 defective items will be accepted, and express your intermediate steps using combinatorial notation:
 
 Soln
 
@@ -58,6 +59,6 @@ but for when order doesn't matter we ~~know~~ eliminate over counting "$r$" time
 
 
 
-i.e $\frac{90!}{10!(90-10)!} \div \frac{100!}{10!(90-10)!}$
+i.e $\frac{90!}{10!(90-10)!} \div \frac{100!}{10!(100-10)!}$
 
 Which is still same as before
