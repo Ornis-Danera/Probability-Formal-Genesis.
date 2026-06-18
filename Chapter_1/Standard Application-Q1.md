@@ -11,7 +11,7 @@
 ## Problem
 A batch of 100 manufactured items is checked by an inspector, who randomly selects 10 items for examination. If none of the 10 items are defective, the batch is accepted. Calculate the exact probability that a batch containing exactly 10 defective items will be accepted, and express your intermediate steps using combinatorial notation:
 
-Soln
+ ## Solution
 
 The question triped me up at first. The phrase "Pr that a batch containing exactly 10 defective items will be accepted".
 
