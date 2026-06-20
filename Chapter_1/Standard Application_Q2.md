@@ -33,7 +33,6 @@ But we are looking for ~~the~~ the count for at least one hit.
 
 And that is all possibilities except two misses, i.e ~~10,000 - (two misses)~~ HH, MM, MH
 
-### Transcription of File `226d24a1-6a00-45d7-a2e2-21eea1e9d608`
 
 ~~All misses~~
 
