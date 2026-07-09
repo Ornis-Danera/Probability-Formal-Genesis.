@@ -17,7 +17,18 @@ We saw with example on Pg 6 that if we are to make 3 choices from 6 options, the
 
 & we also noted that each set from that number has $3!$ ways it can appear i.e
 
-$$\left. \begin{matrix} \text{A B C} \\ \text{A C B} \\ \text{B A C} \\ \text{B C A} \\ \text{C A B} \\ \text{C B A} \end{matrix} \right\} \text{A, B, C}$$
+$$
+\begin{aligned}
+ABC\\
+ACB\\
+BAC\\
+BCA\\
+CAB\\
+CBA
+\end{aligned}
+\qquad\Rightarrow\qquad
+\{A,B,C\}
+$$
 
 and so to just get one unique set, we divide the total "distinct" number of ways of ~~choosing~~ choosing 3 from 6 by $3!$ $\ = \ \frac{6!}{(6-3)!} \times \frac{1}{3!} \ = \ \frac{6!}{3!(6-3)!}$ i.e
 
