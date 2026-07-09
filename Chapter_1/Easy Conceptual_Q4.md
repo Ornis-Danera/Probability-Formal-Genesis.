@@ -1,12 +1,9 @@
-Here is the verbatim transcription of your notes, preserved page by page exactly as written, including standard mathematical notation, scratch-outs, corrections, and margin notes.
 
-### **[Page 1]**
 
 9 Easy Conceptual. When Partitioning a population of $n$ elements into $k$ subpopulations of sizes $n_1, n_2, n_3 \dots n_k$, what algebraic condition must the subpopulation sizes satisfy, and what is the formula (multinomial coefficient) for the number of distinct ways to achieve this Partition.
 
-### **[Page 2]**
 
-Check back of your note once to archive
+
 
 09/07/2026
 
@@ -30,7 +27,7 @@ that $3!$ to get the actual ~~number of~~ set of elements from a population of $
 
 Our maths tells us $\ = \ \frac{6!}{3!(6-3)!} \ = \ \frac{6 \times 5 \times 4 \times \cancel{3!}}{3! \ \cancel{3!}} = 20$
 
-### **[Page 3]**
+
 
 (26)
 
@@ -74,7 +71,7 @@ $\mathbf{\Rightarrow}$ If order mattered, then each of the elements above would 
 
 So we have $\frac{6!}{3!(6-3)!}$ ~~multiplied by $3!$ to~~
 
-### **[Page 4]**
+
 
 (27)
 
@@ -104,7 +101,7 @@ Given a population of $n$ elements, let/where $(n_1, n_2, \dots, n_k)$ ~~be~~ al
 
 Then there are $N = \frac{n!}{n_1! n_2! \dots n_k!}$ ways of partitioning $n$ elements into $K$ subpopulations of sizes $n_1, n_2, \dots \text{ or } n_k$ respectively.
 
-### **[Page 5]**
+
 
 Proof:
 
@@ -162,7 +159,7 @@ $$\text{So the last term} = \frac{(n - n_1 - \dots - n_{K-2})!}{(n_{K-1})! n_K!}
 
 ~~So the~~ The last term's numerator actually cancels out with a $\overset{\text{from}}{\text{term}}$ from the preceding denominator, leaving us with
 
-### **[Page 7]**
+
 
 $$\frac{n!}{n_1! n_2!} \dots \frac{1}{(n_{K-1})! n_K!}$$
 
@@ -184,7 +181,7 @@ multinomial coefficients
 
 & recall $\frac{n!}{r!(n-r)!}$ is called generalized binomial coefficient
 
-### **[Page 8]**
+
 
 So now that I have read well Pg 7 & 8 of textbook, I can answer question 9
 
